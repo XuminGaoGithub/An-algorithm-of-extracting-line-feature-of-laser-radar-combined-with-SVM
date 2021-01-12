@@ -15,7 +15,6 @@ X. Gao, L. Jiang, H. Wang, et al. Algorithm of Extracting Line Feature of Laser 
 
 - Opencv 2.4.9
 
-- VS2010
 
 - Sick LMS111 lidar (Be used to access the data)
 
