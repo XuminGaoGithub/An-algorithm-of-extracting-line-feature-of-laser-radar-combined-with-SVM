@@ -53,3 +53,15 @@ segmentation in extracting line feature of laser radar data by the IEPF algorith
 
 Then, according to the geometric relationship between merged line segments, the robot can recognize the indoor structured environments, for instance walls, corridors, corners and passageway (this part of work is included in my master's thesis [https://drive.google.com/drive/folders/1_Bk6lemu2a-_1MYub1tQvBuKXg1RNfAo]).
 
+
+![Image text](https://github.com/XuminGaoGithub/An-algorithm-of-extracting-line-feature-of-laser-radar-combined-with-SVM/blob/main/1.png) 
+
+![Image text](https://github.com/XuminGaoGithub/An-algorithm-of-extracting-line-feature-of-laser-radar-combined-with-SVM/blob/main/2.png) 
+
+![Image text](https://github.com/XuminGaoGithub/An-algorithm-of-extracting-line-feature-of-laser-radar-combined-with-SVM/blob/main/3.png) 
+
+![Image text](https://github.com/XuminGaoGithub/An-algorithm-of-extracting-line-feature-of-laser-radar-combined-with-SVM/blob/main/4.png) 
+
+
+
+
