@@ -58,6 +58,7 @@ Then, according to the geometric relationship between merged line segments, the 
 ![Image text](https://github.com/XuminGaoGithub/An-algorithm-of-extracting-line-feature-of-laser-radar-combined-with-SVM/blob/main/1.png) 
 
 2.Corner recognition
+
 ![Image text](https://github.com/XuminGaoGithub/An-algorithm-of-extracting-line-feature-of-laser-radar-combined-with-SVM/blob/main/2.png) 
 
 3.Passageway recognition
