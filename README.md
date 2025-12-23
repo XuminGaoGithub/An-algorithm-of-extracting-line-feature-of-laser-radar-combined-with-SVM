@@ -6,10 +6,6 @@ X. Gao, L. Jiang, H. Wang, et al. Algorithm of Extracting Line Feature of Laser 
 Institute of Robotics and Intelligent Systems, Wuhan University of Science and Technology,China
 
 
-# E-mail: comin15071460998@gmail.com
-
-
-
 # Requirements
 
 - Opencv 2.4.9
