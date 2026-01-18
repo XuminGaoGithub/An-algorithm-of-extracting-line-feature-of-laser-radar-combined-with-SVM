@@ -1,7 +1,7 @@
 # An algorithm of Extracting Line Feature of Laser Radar Combined with SVM
 
 
-X. Gao, L. Jiang, H. Wang, et al. Algorithm of Extracting Line Feature of Laser Radar Combined with SVM[J]. Computer Engineering and Design, 2019, 40(08): 2384-2388.【https://xueshu.baidu.com/ndscholar/browse/detail?paperid=16760eu011440cd03c1b0ce0ax126705&site=xueshu_se】
+X. Gao, L. Jiang, H. Wang, et al. Algorithm of Extracting Line Feature of Laser Radar Combined with SVM[J]. Computer Engineering and Design, 2019, 40(08): 2384-2388.【https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=SJSJ201908047&uniplatform=OVERSEA&v=7d893uLcWt6Ikf0FOVXgrv_SDGl8vqCV1lf89WZ1YpOwXY_1dG1JkQMUFjkpi3we】
 
 Institute of Robotics and Intelligent Systems, Wuhan University of Science and Technology,China
 
